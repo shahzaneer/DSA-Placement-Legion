@@ -6,7 +6,7 @@ public class LeftRotateByK {
         int [] array = {3,7,8,9,10,11};
         // System.out.println(Arrays.toString(rightRotateByK(array, 3)));
         // rightRotateByKBruteForce(array, 3);
-        rotateRightByKOptimal(array, 3);
+        rotateleftByKOptimal(array, 2);
 
         System.out.println(Arrays.toString(array));
 
@@ -15,27 +15,22 @@ public class LeftRotateByK {
     // Output: 9 10 11 3 7 8
     // Explanation: Array is rotated to right by 3 position.
 
-    //MY Brute Force: TC: O(n) SC: O(k*n)
-    static int [] rightRotateByK(int [] array , int k){
-        if(k == 0) 
-            return array;
-            
-        int [] tempArray = new int[array.length];
-        int temp = array[array.length- 1];
+   static void leftRotateIntuitive(int [] array, int k){
+    int [] tempArray = new int[array.length];
 
-        for(int i = 0; i<array.length - 1; i++){
-            tempArray[i+1] = array[i];
-        }
-        tempArray[0] = temp;
-        array = tempArray;
-        return rightRotateByK(array, --k);
-        
+    for(int i = 0; i<array.length; i++){
+        int l = (k - i) % array.length;
+        tempArray[l] = array[i];
     }
+    for(int i=0; i<array.length; i++){
+        array[i] = tempArray[i];
+    }
+   }
 
     // BruteForce again
     // TC: O(n) SC(d)
     // if rotation = 3 ki ho tou first three elements ko copy kr k end main pohanchana hai aur kaion ko front men lanaa hai.
-    static void rightRotateByKBruteForce(int [] array, int k){
+    static void leftRotateByKBruteForce(int [] array, int k){
         int rotation = k % array.length;
         int [] tempArray = new int[rotation];
 
@@ -60,7 +55,7 @@ public class LeftRotateByK {
 // TC: O(n^2) SP: O(1) 
 // ! aka: Reversal Algorithm
 
-static void rotateRightByKOptimal(int [] array, int k){
+static void rotateleftByKOptimal(int [] array, int k){
     // meths
     k = k % array.length;
     Reverse(array, 0, k - 1);
