@@ -1,5 +1,5 @@
 # DSA-Placement-Legion
-
+![DSA-Placement-Legion](https://socialify.git.ci/shahzaneer/DSA-Placement-Legion/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
