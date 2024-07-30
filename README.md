@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
