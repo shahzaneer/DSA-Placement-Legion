@@ -49,6 +49,7 @@
 | [0485-max-consecutive-ones](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 | ------- |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
