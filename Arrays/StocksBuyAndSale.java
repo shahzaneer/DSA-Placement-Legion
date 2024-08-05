@@ -48,9 +48,9 @@ class StocksBuyAndSale {
     }
 
     public static void main(String[] args) {
-        // int prices[] = { 7, 1, 5, 3, 6, 4 };
+        int prices[] = { 7, 1, 5, 3, 6, 4 };
 
-        int prices[] = { 2, 4, 1 }; // aik ko khareedh kr 4 ko bechna possible nhi hai stocks ko
+        // int prices[] = { 2, 4, 1 }; // aik ko khareedh kr 4 ko bechna possible nhi hai stocks ko
 
         System.out.println(maxProfit(prices));
 
