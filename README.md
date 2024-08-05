@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,4 +106,5 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
