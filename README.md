@@ -15,6 +15,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
