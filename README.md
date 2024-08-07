@@ -45,6 +45,7 @@
 | [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
