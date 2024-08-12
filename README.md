@@ -47,6 +47,7 @@
 | [0031-next-permutation](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
@@ -115,6 +116,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -125,5 +127,6 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
