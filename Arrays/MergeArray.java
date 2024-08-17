@@ -1,6 +1,6 @@
+
 import java.util.Arrays;
 
-//! Question
 // You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
 // Merge nums1 and nums2 into a single array sorted in non-decreasing order.
@@ -16,26 +16,76 @@ import java.util.Arrays;
 // The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.
 
 public class MergeArray {
-    //! brute force approach
-    static public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for (int i = 0; i < n; i++) {
-            nums1[i + m] = nums2[i];
-        }
-
-        Arrays.sort(nums1);
-        System.out.println(Arrays.toString(nums1));
-    }
-
-    
-    
     public static void main(String[] args) {
         int num1[] = { 1, 2, 3, 0, 0, 0 };
         int num2[] = { 2, 5, 6 };
 
         int n = 3;
         int m = 3;
-        System.out.println("Pakistan noor hai");
+        System.out.println("Pakistan noor hai aur Noor ko zawal nhi!");
         merge(num1, m, num2, n);
+        System.out.println(Arrays.toString(num1));
+        System.out.println(Arrays.toString(num2));
 
     }
-}
+    //! brute: TC: O(2(max of (m,n))) SC: O(n+m)
+    static public void merge(int[] nums1, int m, int[] nums2, int n) {
+       int [] array = new int[m+n];
+       int left = 0;
+       int right = 0;
+       int index = 0;
+
+    //    array filling
+       while(left < m && right < n){
+        if(nums1[left] < nums2[right]){
+            array[index] = nums1[left];
+            left++;
+        }else{
+            array[index] = nums2[right];
+            right++;
+        }
+        index++;
+       }
+
+    //    if one of the arrays got exhausted
+       while(left < m){
+        array[index++] = nums1[left++];
+       }
+       while(right < n){
+        array[index++] = nums2[right++];
+       }
+
+    //    Putting back
+    for(int i = 0; i<array.length; i++){
+        if(i<m)  nums1[i] = array[i];
+        else nums2[i-n] = array[i];
+    }
+
+    }
+
+    //! Optimal: TC: O(m + 2(nlogn)) SC: O(1)
+    static void mergeOptimal(int [] nums1, int m, int [] nums2, int n){
+        int left = m-1;
+        int right = 0;
+        
+        while (left >= 0 && right < m) {
+            if (nums1[left] > nums2[right]) {
+                int temp = nums1[left];
+                nums1[left] = nums2[right];
+                nums2[right] = temp;
+                left--;
+                right++;
+            } 
+            else {
+                break;
+            }
+    
+        // Sort both the arrays
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
+        
+    }
+    }
+
+    
+    
