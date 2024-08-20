@@ -66,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,4 +159,16 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
