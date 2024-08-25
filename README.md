@@ -74,6 +74,7 @@
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0792-binary-search) |
@@ -142,6 +143,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
