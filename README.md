@@ -91,6 +91,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -168,6 +169,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
