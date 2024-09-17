@@ -6,5 +6,8 @@ public class LinkedList {
             System.out.println(mover.data);
             mover = mover.next;  
         }
+
+        System.out.println(Node.lengthOfLL(head));
+        System.out.println(Node.searchInLL(head, 7));
     }
 }

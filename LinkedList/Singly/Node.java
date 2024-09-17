@@ -27,4 +27,24 @@ public class Node {
         }
         return head;
     }
+
+    static int lengthOfLL(Node head){
+        int counter = 0;
+        Node current = head;
+        while(current!=null){
+            counter++;
+            current = current.next;
+        }
+        return counter;
+    }
+
+    static boolean searchInLL(Node head, int key){
+        Node current = head;
+        while(current!=null){
+            if(current.data == key) return  true;
+            current = current.next;
+        }
+        return false;
+    }
+
 }
