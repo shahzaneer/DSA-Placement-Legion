@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
@@ -213,6 +215,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
 ## Binary Indexed Tree
 |  |
@@ -235,4 +238,5 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
