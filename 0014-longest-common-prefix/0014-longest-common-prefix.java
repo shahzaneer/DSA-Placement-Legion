@@ -1,6 +1,6 @@
 class Solution {
     public String longestCommonPrefix(String[] words) {
-        String lcp = "";
+        StringBuilder lcp = new StringBuilder();
         boolean match = true;
         for(int i=0; i<words[0].length(); i++){
             char ch = words[0].charAt(i);
@@ -9,9 +9,9 @@ class Solution {
                     match = false;
                 }
             }
-            if(match) lcp+=ch;
+            if(match) lcp.append(ch);
             else break;
         }
-    return lcp;
+    return lcp.toString();
     }
 }
