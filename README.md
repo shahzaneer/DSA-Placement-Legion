@@ -36,6 +36,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
