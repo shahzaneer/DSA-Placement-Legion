@@ -25,6 +25,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -249,4 +250,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
