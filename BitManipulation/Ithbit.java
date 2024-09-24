@@ -20,6 +20,10 @@ public class Ithbit {
     //! for one liners we only need to make ready the mask (the second number from which we can perform n binaryOperator mask to gain answer)
     }
 
+    // ! Check if the ith Bit is set or not
+    static boolean ithBitisSet(int n, int i){
+        return ((n & (1 << i)) != 0);
+    }
     //! Setbit the ith if its 1 stays 1   otherwise make it 1
     static int setBit(int num, int i){
         return (num | (1<<i));
