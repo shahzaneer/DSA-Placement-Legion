@@ -190,6 +190,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
