@@ -74,6 +74,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
@@ -188,6 +189,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0461-hamming-distance) |
@@ -257,4 +259,8 @@
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
