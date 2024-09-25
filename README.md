@@ -87,6 +87,7 @@
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
@@ -193,6 +194,7 @@
 | [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2323-minimum-bit-flips-to-convert-number) |
