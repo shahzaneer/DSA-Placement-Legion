@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
@@ -191,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0137-single-number-ii) |
