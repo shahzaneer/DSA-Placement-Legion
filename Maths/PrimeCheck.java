@@ -5,6 +5,17 @@ public class PrimeCheck {
         System.out.println(isPrime(12));
     }
 
+    //!Brute: TC: O(n) SC: O(1)
+    static boolean isPrimeBrute(int number){
+        int count = 0;
+        for(int i=1; i<=number; i++){
+            if(number % i == 0) count++;
+        }
+        return count == 2;
+    }
+
+    //!Optimal: TC: O(sqrt(n)) SC: O(1)
+
     static boolean isPrime(int number){
         int counter = 0;
         for(int i=1; i<=Math.sqrt(number); i++){
@@ -15,7 +26,4 @@ public class PrimeCheck {
         }
     return counter == 2;
     }
-
-    // Time: O(sqrt(n))
-    // Space: O(1)
 }
