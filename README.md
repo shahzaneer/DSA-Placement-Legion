@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
@@ -86,6 +87,7 @@
 | [0162-find-peak-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0260-single-number-iii) |
@@ -269,4 +271,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
