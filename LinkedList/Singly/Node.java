@@ -376,4 +376,103 @@ public class Node {
         return head;
     }
 
+
+    //! Brute: TC: O(len + len-n) SC: O(1)
+    // - first count the length then reach the node one before the nth from last and then relinks
+    static Node removeNthNodeFromLast(Node head, int n){
+        int counter = 1;
+        Node mover = head;
+        while(mover!=null){
+            mover = mover.next;
+            counter++;
+        }
+        
+        if(counter == n) {
+            // the deletion is of the head node
+            head = head.next;
+            return head;
+        }
+
+        int lastNodeBeforeDeletion = counter - n;
+        mover = head;
+        while(lastNodeBeforeDeletion>0){
+            mover = mover.next;
+            lastNodeBeforeDeletion--;
+        }
+        mover.next = mover.next.next;
+        return head;
+    }
+
+    // ! Optimal: TC: O(n) SC: O(1)
+    // ! Hare and Tortoise algo
+    static Node removerNthNodeFromLast(Node head, int n){
+        //* */ if we move the fast pointer already by N places
+        //* */ then we move slow and fast simultaneously 
+        //* */ when fast will be at Len place then slow will be at len-n place...
+        Node fast = head;
+        Node slow = head;
+        for(int i=0; i<n;i++) fast = fast.next;
+
+        if(fast == null){ 
+            // the deletion Node is the head itself
+        head = head.next;
+        return head;
+        }
+
+        while(fast.next!=null){
+            fast = fast.next;
+            slow = slow.next;
+        }
+        
+        slow.next = slow.next.next;
+        return head;
+
+    }
+
+    // ! Delete the middle Element of a linkedList
+    // ! Brute: TC: O(len + (len/2)-1 + 1) SC: O(1)
+    // -> count and then getAnd relink
+    static Node deleteMiddleNodeBrute(Node head){
+        if(head == null || head.next == null) return null;
+        int counter = 1;
+        Node mover = head;
+        while(mover!=null){
+            mover = mover.next;
+            counter++;
+        }
+
+        mover = head;
+        int nodeBeforeTheMiddleNode = (counter/2) - 1;
+        while(nodeBeforeTheMiddleNode>0){
+            mover = mover.next;
+            nodeBeforeTheMiddleNode--;
+        }
+        if(mover.next!=null){
+            Node nodeToBeDeleted = mover.next;
+            mover.next = mover.next.next;
+            nodeToBeDeleted = null;
+        }
+        return head;
+    
+    }
+    // ! Optimal: TC: O(n) SC: O(1)
+    // -> Hare and tortoise Approach
+    static Node deleteMiddleNodeOptimal(Node head){
+        if(head == null || head.next == null) return null;
+        Node fast = head;
+        Node slow = head;
+        fast = fast.next.next;
+
+        while(fast!=null && fast.next!=null){
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+
+        if(slow.next!=null){
+            Node nodetToBeDeleted = slow.next;
+            slow.next = slow.next.next;
+            nodetToBeDeleted = null;
+        }
+        return head;
+    }
 }
