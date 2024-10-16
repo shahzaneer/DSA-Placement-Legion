@@ -28,6 +28,7 @@
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0234-palindrome-linked-list) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
@@ -136,6 +138,7 @@
 | [0018-4sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
@@ -149,6 +152,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -280,6 +284,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0237-delete-node-in-a-linked-list) |
