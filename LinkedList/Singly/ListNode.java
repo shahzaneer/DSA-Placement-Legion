@@ -278,4 +278,48 @@ public class ListNode {
         return dummyNode.next;
     }
 
+
+    //! Add 1 Number and return the list
+    //! TC: O(3N) SC: O(1)
+    static ListNode addOne(ListNode head){
+        if(head == null) return new ListNode(1);
+        // O(n)
+        head = reverseLL(head);
+        ListNode mover = head;
+        int sum = 0;
+        int carry = 1;
+        // O(n)
+        while(mover!=null){
+            sum = carry + mover.data;
+            mover.data = sum % 10;
+            carry = sum/10;
+            mover = mover.next;
+        }
+
+        //  O(n)
+        if(carry!=0){
+            head = reverseLL(head);
+            ListNode newNode = new ListNode(carry);
+            newNode.next = head;
+            return newNode;
+        }
+        head = reverseLL(head);
+        return head;
+        
+    }
+    private static ListNode reverseLL(ListNode head){
+        if(head == null || head.next == null) return head;
+        ListNode newHead = reverseLL(head.next);
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
+        return newHead;
+    }
+
+
+    public static void main(String[] args) {
+        ListNode head = ListNode.makeSinglyLinkedList(new int [] {9,9,9});
+        head = ListNode.addOne(head);
+        ListNode.LinkedListTraversal(head);
+    }
 }
