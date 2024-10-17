@@ -110,6 +110,28 @@ public class Node {
         return newHead; // The new head is the last node of the original list
     }
     
-    
+
+    // ! Delete all Occurences of a key in DLL
+    static Node deleteAllOccurencesOfKey(Node head, int key){
+        if(head == null || (head.next == null && head.data == key)) return null;
+
+        Node mover = head;
+        while(mover!=null){
+            if(mover.data == key){
+            if(mover == head) head = head.next;
+            else{
+                Node previousNode = mover.previous;
+                Node nextNode = mover.next;
+                if(previousNode!=null) previousNode.next = nextNode;
+                if(nextNode!=null) nextNode.previous = previousNode;
+
+                mover = nextNode;
+            }
+        }
+        else mover = mover.next;   
+    }
+    return head;
+
+}
 }
 
