@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Stack;
 
 public class Node {
@@ -133,5 +134,72 @@ public class Node {
     return head;
 
 }
+
+// ! Find all Pairs with given sum in a Sorted DLL
+// ! Brute: TC: O(n*n) : SC: O(1)
+static ArrayList<ArrayList<Integer>> findPairEqualToSumBrute(Node head, int sum){
+    ArrayList<ArrayList<Integer>> pairs = new ArrayList<>();
+    Node mover1 = head;
+    while(mover1!=null){
+        Node mover2 = mover1.next;
+        while(mover2!=null && (mover1.data+ mover2.data <= sum)){
+            if(mover1.data + mover2.data == sum){
+                ArrayList<Integer> pair = new ArrayList<>();
+                pair.add(mover1.data);
+                pair.add(mover2.data);  
+                pairs.add(pair); 
+            }
+            mover2 = mover2.next;
+        }
+        mover1 = mover1.next;
+    }
+    return pairs;
+}
+
+// ! Optimal: TC: O(2n) : SC: O(1)
+static ArrayList<ArrayList<Integer>> findPairEqualToSumOptimal(Node head, int sum){
+    ArrayList<ArrayList<Integer>> pairs = new ArrayList<>();
+    Node left = head;
+    Node right = head;
+    while(right.next!=null) right = right.next;
+
+    while(left.data <= right.data){
+        if(left.data + right.data == sum ){
+            ArrayList<Integer> pair = new ArrayList<>();
+                pair.add(left.data);
+                pair.add(right.data);  
+                pairs.add(pair); 
+                left = left.next;
+                right = right.previous;
+        }
+        else if(left.data + right.data < sum) left = left.next;
+        else right = right.previous;
+    }
+
+    return pairs;
+}
+
+
+// ! Delete Duplicated in a sorted doubly LL
+// ! TC: O(n) SC: O(1)
+static Node removeDuplicatesInDLL(Node head){
+    if(head == null || head.next == null) return head;
+
+    Node mover = head;
+    while(mover!=null && mover.next!=null){
+        Node nextNode = mover.next;
+        while(nextNode!=null && mover.data == nextNode.data){
+            nextNode = nextNode.next;
+        }
+        mover.next = nextNode;
+        if(nextNode!=null) nextNode.previous = mover;
+        mover = mover.next;
+    }
+    return head;
+
+}
+
+
+
 }
 
