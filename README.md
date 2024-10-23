@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0050-powx-n) |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
@@ -183,6 +185,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0138-copy-list-with-random-pointer) |
