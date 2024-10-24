@@ -55,6 +55,7 @@
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
