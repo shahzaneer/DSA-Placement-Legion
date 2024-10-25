@@ -300,6 +300,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -333,4 +334,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
