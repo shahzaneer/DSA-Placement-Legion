@@ -61,9 +61,9 @@ class APIRequestProblem:  #camelCase For class
 
 
 #! 9. Characters that should not be used in naming variables
-l = 1;
-O = 0;
-I = 1;  #as these looks similar and hinders readability
+l = 1
+O = 0
+I = 1  #as these looks similar and hinders readability
 
 #! 13. Strong typing
 
