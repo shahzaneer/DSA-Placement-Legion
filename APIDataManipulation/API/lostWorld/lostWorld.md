@@ -77,24 +77,16 @@ Feed the final result to the time police helpline eg console output in our case.
 
 Translation Table
 
- 
 
 Operation Keyword
 
 Actual Operation
 
-FOO
+FOO: SUM Operation
 
-SUM
+FOX : MAX Operation
 
-FOX
-
-MAX
-
-BAR
-
-MIN
-
+BAR: MIN Operation
 
 
 
