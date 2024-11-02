@@ -67,16 +67,16 @@ if __name__ == '__main__':
     api_url = f"{base_api}{trip_id}"
 
     try:
-        timelines_data = requests.get(api_url, verify=False).json()
-        timelines = timelines_data['data']['timelines']
-        masks = timelines_data['data']['masks']
-        action_plan = timelines_data['data']['action_plan']
-        action_plan_operation = action_plan['operation']
-        action_plan_sub_operations = action_plan['sub_operations']
+        timelines_data: dict = requests.get(api_url, verify=False).json()
+        timelines: list = timelines_data['data']['timelines']
+        masks: list = timelines_data['data']['masks']
+        action_plan: dict = timelines_data['data']['action_plan']
+        action_plan_operation: str = action_plan['operation']
+        action_plan_sub_operations: dict = action_plan['sub_operations']
 
-        grouped_timelines = timelines_group_by_masked_values(timelines, masks)
-        data = perform_sub_operations_on_masked_labeled_data(grouped_timelines, action_plan_sub_operations)['data']
-        result = final_operation(action_plan_operation, data)
+        grouped_timelines: dict = timelines_group_by_masked_values(timelines, masks)
+        data: list = perform_sub_operations_on_masked_labeled_data(grouped_timelines, action_plan_sub_operations)['data']
+        result: int  = final_operation(action_plan_operation, data)
 
         print(result)
 
