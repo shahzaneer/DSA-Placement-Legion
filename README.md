@@ -39,6 +39,7 @@
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -124,6 +125,7 @@
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0496-next-greater-element-i) |
@@ -168,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -302,6 +305,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
