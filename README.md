@@ -43,6 +43,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [0410-split-array-largest-sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
