@@ -1,5 +1,7 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class TreeNode {
     int data;
@@ -58,6 +60,77 @@ public class TreeNode {
       }
   
 
+    // ! Level Order Traversal
+    public List<List<Integer>> levelOrderTraversal(TreeNode root) {
+        List<List<Integer>> list = new LinkedList<>();
+        if (root == null) return list;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+
+        while(!queue.isEmpty()){
+            int levelSize = queue.size();
+            List<Integer> currentList = new LinkedList<>();
+            for(int i=0; i<levelSize; i++){
+                TreeNode node = queue.poll();
+                currentList.add(node.data);
+                if(node.right!=null) queue.add(node.right);
+                if(node.left!=null) queue.add(node.left);
+            }
+            list.add(currentList);
+        }
+                      
+        return list;
+    }
+
+    // ! Height of a Tree / Maximum Depth
+    // remember the recurrence relation
+    public static int maxDepth(TreeNode root) {
+        if(root == null) return 0;
+
+        int leftSubTreeHeight = maxDepth(root.left);
+        int rightSubTreeHeight = maxDepth(root.right);
+        return 1 + Math.max(leftSubTreeHeight, rightSubTreeHeight); 
+    }
+
+    // ! Check if a tree is balanced BT or not
+    public static int checkHeight(TreeNode root){
+        if(root == null) return 0;
+
+        int leftSubTreeHeight = checkHeight(root.left);
+        if(leftSubTreeHeight == -1) return -1;
+        int rightSubTreeHeight = checkHeight(root.right);
+        if(rightSubTreeHeight == -1) return -1;
+
+        return 1 + Math.max(leftSubTreeHeight, rightSubTreeHeight);
+
+    }
+    public boolean isBalanced(TreeNode root) {
+        return checkHeight(root)!= -1;
+    }
+
+    // ! Diamter of the Binary Tree
+    //  Maximum possible Distance between two nodes (not necessarily be passing thorugh the root)
+    public int diameterOfBinaryTree(TreeNode root) {
+        int [] diameter = new int [1];
+        height(root, diameter);
+        return diameter[0];
+    }
+    
+    public static int height(TreeNode root, int [] maxi) {
+        if(root == null) return 0;
+
+        int leftSubTreeHeight = height(root.left, maxi);
+        int rightSubTreeHeight = height(root.right, maxi);
+        maxi[0] = Math.max(maxi[0], leftSubTreeHeight + rightSubTreeHeight);
+
+        return 1 + Math.max(leftSubTreeHeight, rightSubTreeHeight); 
+    }
+
+    // ! isSame Tree
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p == null || q == null) return (p==q);
+        return (p.data == q.data) &&  isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+    }
 
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(10);
