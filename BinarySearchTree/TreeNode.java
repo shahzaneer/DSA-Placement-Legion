@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
@@ -73,14 +74,49 @@ public class TreeNode {
             for(int i=0; i<levelSize; i++){
                 TreeNode node = queue.poll();
                 currentList.add(node.data);
-                if(node.right!=null) queue.add(node.right);
                 if(node.left!=null) queue.add(node.left);
+                if(node.right!=null) queue.add(node.right);
             }
             list.add(currentList);
         }
-                      
+
         return list;
+
     }
+
+        //! zigZag Order Traversal
+        public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+
+         List<List<Integer>> list = new LinkedList<>();
+         if (root == null) return list;
+
+         Queue<TreeNode> queue = new LinkedList<>();
+         queue.add(root);
+         boolean leftToRight = false;
+
+         while(!queue.isEmpty()){
+            int levelSize = queue.size();
+            int [] currentList = new int [levelSize];
+
+            for(int i=0; i<levelSize; i++){
+                TreeNode node = queue.poll();
+                int index = leftToRight? i : levelSize - 1 - i;
+                currentList[index] = node.data;
+                if(node.left!=null) queue.add(node.left);
+                if(node.right!=null) queue.add(node.right);
+            }
+              List<Integer> integerList = Arrays.stream(currentList)  // Convert int[] to IntStream
+                                          .boxed()           // Convert IntStream to Stream<Integer>
+                                          .toList();         // Collect into List<Integer>
+        
+            list.add(integerList);
+            leftToRight = !leftToRight;
+         }
+
+         return list;
+
+        }
+                      
 
     // ! Height of a Tree / Maximum Depth
     // remember the recurrence relation
@@ -132,6 +168,17 @@ public class TreeNode {
         return (p.data == q.data) &&  isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 
+
+
+     public static boolean isSymmetric(TreeNode root) {
+        return root == null || helperIsSymmetricHelper(root.left, root.right);
+    }
+
+    static boolean helperIsSymmetricHelper(TreeNode left, TreeNode right){
+        if(left == null || right== null) return left == right;
+        if(left.data!=right.data) return false;
+        return helperIsSymmetricHelper(left.left, right.right) && helperIsSymmetricHelper(left.right, right.left);
+    }
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(10);
         TreeNode node2 = new TreeNode(9);
