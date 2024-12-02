@@ -18,6 +18,7 @@
 | [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
+| [2619-categorize-box-according-to-criteria](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2619-categorize-box-according-to-criteria) |
 ## Two Pointers
 |  |
 | ------- |
