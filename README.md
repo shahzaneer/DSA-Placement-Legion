@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -57,6 +58,7 @@
 | [0205-isomorphic-strings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1078-remove-outermost-parentheses) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2132-convert-1d-array-into-2d-array) |
