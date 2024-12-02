@@ -146,6 +146,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -264,6 +265,7 @@
 | [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -278,6 +280,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2047-find-a-peak-element-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
