@@ -28,6 +28,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0061-rotate-list) |
@@ -54,11 +55,13 @@
 | [0013-roman-to-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -224,6 +228,7 @@
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +331,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
 ## Stack
 |  |
