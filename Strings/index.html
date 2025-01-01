@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Track Ctrl+C and Ctrl+V</title>
+</head>
+<body>
+    <h1>Track Copy and Paste Events</h1>
+    <textarea id="inputField" placeholder="Try copying and pasting here..."></textarea>
+    <div id="output"></div>
+
+    <script>
+        // Tracking the Copy event
+        document.getElementById('inputField').addEventListener('copy', function(e) {
+            document.getElementById('output').innerHTML = "Ctrl+C was pressed (copy event)";
+        });
+
+        // Tracking the Paste event
+        document.getElementById('inputField').addEventListener('paste', function(e) {
+            document.getElementById('output').innerHTML = "Ctrl+V was pressed (paste event)";
+        });
+
+        // Tracking the Ctrl+C and Ctrl+V using keydown event
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey) {
+                if (e.key === 'c') {
+                    document.getElementById('output').innerHTML = "Ctrl+C detected (keydown event)";
+                } else if (e.key === 'v') {
+                    document.getElementById('output').innerHTML = "Ctrl+V detected (keydown event)";
+                }
+            }
+        });
+    </script>
+</body>
+</html>
