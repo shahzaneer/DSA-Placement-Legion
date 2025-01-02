@@ -62,6 +62,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
@@ -209,6 +210,7 @@
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -229,6 +231,7 @@
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
@@ -427,6 +430,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
