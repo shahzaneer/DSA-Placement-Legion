@@ -56,12 +56,16 @@
 | [0014-longest-common-prefix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
@@ -107,6 +111,7 @@
 | [0035-search-insert-position](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0056-merge-intervals) |
@@ -171,6 +176,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0148-sort-list) |
@@ -209,6 +215,7 @@
 | [0169-majority-element](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0948-sort-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -216,6 +223,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0138-copy-list-with-random-pointer) |
@@ -228,7 +236,9 @@
 | [0229-majority-element-ii](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0560-subarray-sum-equals-k) |
@@ -427,6 +437,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
