@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -66,6 +67,7 @@
 | [0290-word-pattern](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0812-rotate-string) |
@@ -81,6 +83,7 @@
 | [0053-maximum-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/shahzaneer/DSA-Placement-Legion/tree/master/1013-fibonacci-number) |
